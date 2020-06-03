@@ -34,7 +34,7 @@ Diploma in English Language Teaching to Adults (2014-2015) (Merit)
 
 ## Experience
 
-**EPAM Systems Ltd.** (July 2008 – January 2010)
+**EPAM Systems Ltd.** (July 2008 – January 2010)   
 *IT Business Analyst*
 - Eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
 - Analysing functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task
