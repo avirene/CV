@@ -1,5 +1,10 @@
 ## Iryna Audzei
 
+<div align="center">
+<a  href="https://www.linkedin.com/in/iryna-audzei-0829075/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a  href="https://github.com/avirene"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+</div>
+
 I have experience in education, linguistics and IT. I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more.
 
 ## Skills
