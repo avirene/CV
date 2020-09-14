@@ -32,7 +32,7 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 As a teacher I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
 
-## Work Experience
+## Experience
 
 **EPAM Systems Ltd.** (July 2008 – January 2010)   
 *IT Business Analyst*
