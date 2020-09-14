@@ -10,11 +10,13 @@
 [About me ](#about-me) |
 [Projects ](#projects) |
 [Skills ](#skills) | 
-[Experience ](#experience) | 
+[Work Experience ](#work-experience) | 
 [Education ](#education) |
 [Hobbies ](#hobbies)
 
 </div>
+
+## About Me
 
 I have experience in education, linguistics and IT. I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more.
 
@@ -32,7 +34,7 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 As a teacher I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
 
-## Experience
+## Work Experience
 
 **EPAM Systems Ltd.** (July 2008 – January 2010)   
 *IT Business Analyst*
@@ -87,4 +89,5 @@ Diploma in English Language Teaching to Adults (2014-2015) (Merit)
 
 ## Hobbies
 
-Running, cooking
+I am fascinated by human body and mind.
+I enjoy running, dancing, and cooking.
