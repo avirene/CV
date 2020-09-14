@@ -20,6 +20,7 @@
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
 |--|--|--|--|--|--|
 |<a href="https://cryptic-brook-48460.herokuapp.com/" target="_blank">Theresa</a>| A webapp to discover and keep track of walks depending on location, driving distance and weather <br> | 2 weeks, team of 3 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a ref="https://trello.com/b/1bBOkh6L/theresa" target="_blank">Theresa on Trello Board</a> | RSpec, CircleCI | <a href="https://github.com/theresadreamteam/theresa">Theresa on Github</a>|
+|Bank| n this Ruby project I practiced doing a tech test, my OO design and TDD skills <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/bank">Bank on Github</a>|
 |Acebook JIMJI| A social media platform <br> | 2 weeks, team of 5 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a ref="https://trello.com/b/uXk2aBQ2/acebook-project-board" target="_blank">Acebook JIMJI on Trello Board</a>| RSpec, Capybara | <a href="https://github.com/jamesAforster/acebook-JIMJI" target="_blank">Acebook JIMJI on Github</a>|
 |MakersBnB| A clone of Airbnb <br> | 1 week, team of 5 | Javascript, Express |  Jasmine | <a href='https://github.com/katieljones/Makersbnb' target="_blank">MakersBnB on Github</a>|
 |Instagram Challenge| A clone of Instagram <br> | 2 days | Ruby on Rails | Rspec, Capybara | <a href="https://github.com/avirene/instagram-challenge">Instagram Challenge on Github</a>|
