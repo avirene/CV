@@ -35,7 +35,7 @@
 
 ## About Me
 
-I have experience in education, linguistics and IT. I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more.
+I have experience in IT, education, and linguistics. I have just completed a software development bootcamp, but before that I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more. In fact, since I graduated, I have been experiencing constant urges to develop software for almost everything I daily deal with.
 
 ## Skills
 
