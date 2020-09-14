@@ -1,8 +1,19 @@
 ## Iryna Audzei
 
-<div align="center">
+<div align="left">
 <a  href="https://www.linkedin.com/in/iryna-audzei-0829075/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a  href="https://github.com/avirene"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+</div>
+
+<div align="left">
+
+[About me ](#about-me) |
+[Projects ](#projects) |
+[Skills ](#skills) | 
+[Work Experience ](#experience) | 
+[Education ](#education) |
+[Hobbies ](#hobbies)
+
 </div>
 
 I have experience in education, linguistics and IT. I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more.
@@ -21,23 +32,7 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 As a teacher I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
 
-## Education
-
-#### Makers Academy (8 June 2020 to 28 August 2020)
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Minsk State Linguistic University (September 1996 to July 2001)
-
-BA in Linguistics (equivalent of 2:1)
-
-#### Cambridge DELTA
-
-Diploma in English Language Teaching to Adults (2014-2015) (Merit)
-
-## Experience
+## Work Experience
 
 **EPAM Systems Ltd.** (July 2008 – January 2010)   
 *IT Business Analyst*
@@ -72,6 +67,22 @@ Diploma in English Language Teaching to Adults (2014-2015) (Merit)
 - Editing and proofreading
 - Consecutive Interpreting (Russian-English, English-Russian)
 - Simultaneous Interpreting (Russian-English)
+
+## Education
+
+#### Makers Academy (8 June 2020 to 28 August 2020)
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Minsk State Linguistic University (September 1996 to July 2001)
+
+BA in Linguistics (equivalent of 2:1)
+
+#### Cambridge DELTA
+
+Diploma in English Language Teaching to Adults (2014-2015) (Merit)
 
 
 ## Hobbies
