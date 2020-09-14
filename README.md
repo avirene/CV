@@ -7,14 +7,32 @@
 
 <div align="left">
 
-[About me ](#about-me) |
 [Projects ](#projects) |
+[About me ](#about-me) |
 [Skills ](#skills) | 
 [Work Experience ](#work-experience) | 
 [Education ](#education) |
 [Hobbies ](#hobbies)
 
 </div>
+
+## Projects
+| Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
+|--|--|--|--|--|--|
+|<a href="https://cryptic-brook-48460.herokuapp.com/" target="_blank">Theresa</a>| A webapp to discover and keep track of walks depending on location, driving distance and weather <br> | 2 weeks, team of 3 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a ref="https://trello.com/b/1bBOkh6L/theresa" target="_blank">Theresa on Trello Board</a> | RSpec, CircleCI | <a href="https://github.com/theresadreamteam/theresa">Theresa on Github</a>|
+|Acebook JIMJI| A social media platform <br> | 2 weeks, team of 5 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a ref="https://trello.com/b/uXk2aBQ2/acebook-project-board" target="_blank">Acebook JIMJI on Trello Board</a>| RSpec, Capybara | <a href="https://github.com/jamesAforster/acebook-JIMJI" target="_blank">Acebook JIMJI on Github</a>|
+|<a href="https://l-palermo.github.io/App-boilerplate-P.R.GA.GP/" target="_blank">React Rollup Boileplate</a>| A React - Rollup - Linaria boilerplate to keep on learning during furlough. CI/CD GitHub Actions, GitHub Pages  <br> | On going | Javscript/React, HTML, CSS, Rollup, Linaria | Jest, React Testing Library | <a href="https://github.com/l-palermo/App-boilerplate-P.R.GA.GP" target="_blank">Github</a>|
+|MakersBnB| A clone of Airbnb <br> | 1 week, team of 5 | Javascript, Express |  Jasmine | <a href='https://github.com/katieljones/Makersbnb' target="_blank">MakersBnB on Github</a>|
+|Instagram Challenge| A clone of Instagram <br> | 2 days | Ruby on Rails | Rspec, Capybara | <a href="https://github.com/avirene/instagram-challenge">Instagram Challenge on Github</a>|
+|Bookmark Manager| An app to save links to favourite web pages <br> | 2 days | Ruby, PostgreSQL | Rspec, Capybara | <a href="https://github.com/avirene/bookmark_manager" target="_blank">Bookmark Manager on Github</a>|
+|Chitter Challenge| A clone of Twitter <br> | 2 days | Ruby, HTML, CSS | Capybara, RSpec, Simplecov | <a href="https://github.com/avirene/chitter-challenge">Chitter Challenge on Github</a>|
+|Bowling Challenge| A bowling scorecard <br> | 2 days | Ruby, HTML, CSS, Javascript | Capybara, RSpec, Jasmine | <a href="https://github.com/avirene/bowling-challenge">Bowling Challenge on Github</a>|
+|Thermostat| Thermostat single page webapp <br> | 2 days | Javascript, Sinatra | Jasmine | <a href="https://github.com/avirene/thermostatJs">Thermostat on Github</a>|
+|RPS| A webapp to play rock, paper, scissors <br> | 2 days | Ruby, Javascript, Sinatra | RSpec, Capybara, Jasmine, Travis CI, Simplecov, Scaffolint | <a href="https://github.com/avirene/rps-challenge">RPS on Github</a>|
+|Oystercard| A project for creating a payment system for public transport <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/oystercard">Oystercard on Github</a>|
+|Takeaway Challenge| A program for ordering meals <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/takeaway-challenge">Takeaway Challenge on Github</a>|
+|Boris Bikes| A program that emulates Boris bikes <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/Boris-Bikes">Boris Bikes on Github</a>|
+|Airport| A program that controls the flow of planes at an airport <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/airport_challenge">Airport on Github</a>|
 
 ## About Me
 
