@@ -41,6 +41,17 @@ I have experience in education, linguistics and IT. I worked for a big IT compan
 
 I am good at getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my well-developed time-management skills, I am able to achieve my aims quickly and efficiently.
 
+#### Full Stack Software Development
+
+Ruby, Rspec, Capybara, Sinatra, Rails
+Javascript, Jasmine, Jquery, Ajax
+React, Heroku
+DOM, HTTP, CSS
+Postgresql, SQL
+MVC, Domain Modelling, Git
+Object Oriented Programming, Test Driven Development, Pair Programming
+Agile, Scrum, XP Values
+
 #### IT Business Analysis
 
 I know what a Software Development Project is like in a big company. As a Business Analyst I was creating and updating project documentation for examination software (Microsoft Office skills). I was also working with the test team to enable them to develop a system test plan. I can work with such tools as Microsoft Office, Power Point, Visio, Sparx EnterpriseArchitect, XML, UML, Jira, Confluence, SVN, Paint.NET, Adobe Photoshop, Slack, GitHub. The project combined the Waterfall and Agile methodologies.
@@ -90,10 +101,14 @@ As a teacher I have always been good at writing rules of grammar and collocation
 ## Education
 
 #### Makers Academy (8 June 2020 to 28 August 2020)
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Ruby, Rspec, Capybara, Sinatra, Rails
+Javascript, Jasmine, Jquery, Ajax
+React, Heroku
+DOM, HTTP, CSS
+Postgresql, SQL
+MVC, Domain Modelling, Git
+Object Oriented Programming, Test Driven Development, Pair Programming
+Agile, Scrum, XP Values
 
 #### Minsk State Linguistic University (September 1996 to July 2001)
 
