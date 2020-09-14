@@ -43,14 +43,14 @@ I am good at getting to the bottom of matters and then explaining them in a simp
 
 #### Full Stack Software Development
 
-Ruby, Rspec, Capybara, Sinatra, Rails
-Javascript, Jasmine, Jquery, Ajax
-React, Heroku
-DOM, HTTP, CSS
-Postgresql, SQL
-MVC, Domain Modelling, Git
-Object Oriented Programming, Test Driven Development, Pair Programming
-Agile, Scrum, XP Values
+- Ruby, Rspec, Capybara, Sinatra, Rails
+- Javascript, Jasmine, Jquery, Ajax
+- React, Heroku
+- DOM, HTTP, CSS
+- Postgresql, SQL
+- MVC, Domain Modelling, Git
+- Object Oriented Programming, Test Driven Development, Pair Programming
+- Agile, Scrum, XP Values
 
 #### IT Business Analysis
 
@@ -101,14 +101,15 @@ As a teacher I have always been good at writing rules of grammar and collocation
 ## Education
 
 #### Makers Academy (8 June 2020 to 28 August 2020)
-Ruby, Rspec, Capybara, Sinatra, Rails
-Javascript, Jasmine, Jquery, Ajax
-React, Heroku
-DOM, HTTP, CSS
-Postgresql, SQL
-MVC, Domain Modelling, Git
-Object Oriented Programming, Test Driven Development, Pair Programming
-Agile, Scrum, XP Values
+
+- Ruby, Rspec, Capybara, Sinatra, Rails
+- Javascript, Jasmine, Jquery, Ajax
+- React, Heroku
+- DOM, HTTP, CSS
+- Postgresql, SQL
+- MVC, Domain Modelling, Git
+- Object Oriented Programming, Test Driven Development, Pair Programming
+- Agile, Scrum, XP Values
 
 #### Minsk State Linguistic University (September 1996 to July 2001)
 
