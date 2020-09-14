@@ -10,7 +10,7 @@
 [About me ](#about-me) |
 [Projects ](#projects) |
 [Skills ](#skills) | 
-[Work Experience ](#experience) | 
+[Experience ](#experience) | 
 [Education ](#education) |
 [Hobbies ](#hobbies)
 
