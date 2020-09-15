@@ -36,7 +36,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics. I have just completed a software development bootcamp, but before that I worked for a big IT company (EPAM Systems) for 10 years: as a Training and Education Manager and an IT Business Analyst. I have a strong interest in computational linguistics and software development, in particular educational software, speech recognition, and more. In fact, since I graduated, I have been experiencing constant urges to develop software for almost everything I daily deal with.
+I have experience in IT, education, and linguistics. I have just completed a software development bootcamp with Makers, and before that I worked for a big IT company (EPAM Systems Ltd.) for 10 years: as a Training and Education Manager and an IT Business Analyst. Since I got interested in coding, I have been hungry for software development, in particular natural language processing, educational software, speech recognition, and more. In fact, since I graduated, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Skills
 
