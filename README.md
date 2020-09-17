@@ -7,14 +7,18 @@
 
 <div align="left">
 
-[Projects ](#projects) |
 [About me ](#about-me) |
+[Projects ](#projects) |
 [Skills ](#skills) | 
 [Work Experience ](#work-experience) | 
 [Education ](#education) |
 [Hobbies ](#hobbies)
 
 </div>
+
+## About Me
+
+I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in coding, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine work and family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to the software development as I possibly could. Finally, I decided to treat my interest with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -34,13 +38,9 @@
 |Boris Bikes| A program that emulates Boris bikes <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/Boris-Bikes">Boris Bikes on Github</a>|
 |Airport| A program that controls the flow of planes at an airport <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/airport_challenge">Airport on Github</a>|
 
-## About Me
-
-I have experience in IT, education, and linguistics. I have just completed a software development bootcamp with Makers, and before that I worked for a big IT company (EPAM Systems Ltd.) for 10 years: as a Training and Education Manager and an IT Business Analyst. Since I got interested in coding, I have been hungry for software development, in particular natural language processing, educational software, speech recognition, and more. In fact, since I graduated, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
-
 ## Skills
 
-I am good at getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my well-developed time-management skills, I am able to achieve my aims quickly and efficiently.
+I am good at asking questions, getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my well-developed time-management skills, I am able to achieve my aims quickly and efficiently.
 
 #### Full Stack Software Development
 
@@ -53,15 +53,17 @@ I am good at getting to the bottom of matters and then explaining them in a simp
 - Object Oriented Programming, Test Driven Development, Pair Programming
 - Agile, Scrum, XP Values
 
-#### IT Business Analysis
+#### Strong Analytical Skills
 
-I know what a Software Development Project is like in a big company. As a Business Analyst I was creating and updating project documentation for examination software (Microsoft Office skills). I was also working with the test team to enable them to develop a system test plan. I can work with such tools as Microsoft Office, Power Point, Visio, Sparx EnterpriseArchitect, XML, UML, Jira, Confluence, SVN, Paint.NET, Adobe Photoshop, Slack, GitHub. The project combined the Waterfall and Agile methodologies.
+As a Business Analyst I elicited customers' requirements by asking questions, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. I worked with the Waterfall and Agile methodologies and I know what a Software Development Project is like in a big company.
 
-#### Strong Analytical Skills and Desire for Innovation
+As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics, as I had to explain it to my IT students who never cross the stream where it's shallowest but take the road less travelled. I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. 
 
-As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics, as I had to explain it to my IT students who never cross the stream where it's shallowest but take the road less travelled.
+####  Desire for Innovation
 
-As a teacher I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
+Throught my whole career I was learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
+
+I learned Business Analysis and I learned Software Development.
 
 ## Work Experience
 
