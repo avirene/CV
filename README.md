@@ -72,7 +72,7 @@ I learned Business Analysis and I learned Software Development.
 - Teaching ESOL Entry 2, Entry 3 and Level 1
 - Teaching Functional Skills English Level 1 online
 
-**EPAM Systems Ltd.**
+**<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>**
 *Training and Education Manager* (February 2010 - November 2015)
 - Promoting and developing e-learning in the company
 - Creating and maintaining a resource base for ELT
