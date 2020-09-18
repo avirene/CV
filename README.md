@@ -95,8 +95,7 @@ I learned Business Analysis and I learned Software Development.
 
 **Freelance Translator/Interpreter** (April 2001 – 2010)
 - Translation (English, Russian, Belarusian, French), editing and proofreading
-- Consecutive Interpreting (Russian-English, English-Russian)
-- Simultaneous Interpreting (Russian-English)
+- Consecutive and Simultaneous Interpreting (Russian-English, English-Russian)
 
 ## Education
 
