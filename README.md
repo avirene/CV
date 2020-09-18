@@ -18,7 +18,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in coding, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine work and family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to the software development as I possibly could. Finally, I decided to treat my interest with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
+I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in coding, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine work and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to the software development as I possibly could. Finally, I decided to treat my interest with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -40,28 +40,28 @@ I have experience in IT, education, and linguistics. Since school, I have always
 
 ## Skills
 
-I am good at asking questions, getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my well-developed time-management skills, I am able to achieve my aims quickly and efficiently.
+I am good at asking questions, getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my solid time-management skills, I am able to achieve my aims quickly and efficiently.
 
-#### Full Stack Software Development
+#### Problem Solving
 
-- Ruby, Rspec, Capybara, Sinatra, Rails
-- Javascript, Jasmine, Jquery, Ajax
-- React, Heroku
-- DOM, HTTP, CSS
-- Postgresql, SQL
-- MVC, Domain Modelling, Git
-- Object Oriented Programming, Test Driven Development, Pair Programming
-- Agile, Scrum, XP Values
+As a Software Developer, I am keen on writing applications that tackle practical issues users face. At the moment I am working on an application that helps language learners memorise vocabulary via automated elicitation of new words and collocations.
+
+As an IT Business Analyst, I unified the project terminology used by the team, created a knowledge sharing base and use case templated which facilitated the communication within the team and sped up the process of use case writing.
+
+As a Training and Education Manager, I promoted and developing e-learning in the company, created a bespoke Business English and cross-cultural awareness curriculum and improved the system of quality control in teaching and students’ progress, which led to a more flexibile, personalised and efficient system of learners' journeys.
+
 
 #### Strong Analytical Skills
 
-As a Business Analyst I elicited customers' requirements by asking questions, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. I worked with the Waterfall and Agile methodologies and I know what a Software Development Project is like in a big company.
+As a Software Developer, I like to see a bigger picture of an application as early as possible in order to structure classes and methods clearly.
 
-As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics, as I had to explain it to my IT students who never cross the stream where it's shallowest but take the road less travelled. I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. 
+As a Business Analyst, I elicited customers' requirements by asking questions, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. I worked with the Waterfall and Agile methodologies and switched between them depending on the project's needs.
+
+As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics. I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. 
 
 ####  Desire for Innovation
 
-Throught my whole career I was learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
+Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
 
 I learned Business Analysis and I learned Software Development.
 
