@@ -48,14 +48,14 @@ As a Software Developer, I am keen on writing applications that tackle practical
 
 As an IT Business Analyst, I unified the project terminology used by the team, created a knowledge sharing base and use case templated which facilitated the communication within the team and sped up the process of use case writing.
 
-As a Training and Education Manager, I promoted and developing e-learning in the company, created a bespoke Business English and cross-cultural awareness curriculum and improved the system of quality control in teaching and students’ progress, which led to a more flexibile, personalised and efficient system of learners' journeys.
+As a Training and Education Manager, I promoted and developed e-learning in the company, created a bespoke Business English and cross-cultural awareness curriculum and improved the system of quality assurance in teaching and monitoring students’ progress, which led to a more flexibile, personalised and efficient system of learners' journeys.
 
 
 #### Strong Analytical Skills
 
-As a Software Developer, I like to see a bigger picture of an application as early as possible in order to structure classes and methods clearly.
+As a Software Developer, I ask questions that help me see a bigger picture of an application as early as possible in order to structure classes and methods clearly.
 
-As a Business Analyst, I elicited customers' requirements by asking questions, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. I worked with the Waterfall and Agile methodologies and switched between them depending on the project's needs.
+As a Business Analyst, I elicited customers' requirements by interviewing, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. We stitched between Waterfall and Agile methodologies depending on the project needs.
 
 As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics. I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. 
 
@@ -67,37 +67,33 @@ I learned Business Analysis and I learned Software Development.
 
 ## Work Experience
 
-**EPAM Systems Ltd.** (July 2008 – January 2010)   
-*IT Business Analyst*
-- Eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
-- Analysing functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task
-- Predicting behaviour of users who take a test in their MS Office skills and providing them with different pathways to score a goal for a task in the MS simulation application
-- Finding cost-effective solutions for the customer by outlining and limiting the scope of simulation features through checking the existing MS Office functionality against test takers' needs
-- Communicating the requirements to the development team
-- Creating and updating project documentation, such as use-cases, process modelling, change requests etc by using such tools as Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Paint.NET, Adobe Photoshop, SharePoint
-- Working with the test team to provide the required information and details to enable them to develop a system test plan
-- Creating XML data models of the User Interface and test scenarios in the simulation
+**Westminster Adult Education Service** (January 2017 – November 2019)    
+*ESOL and Functional Skills Tutor*  
+- Teaching ESOL Entry 2, Entry 3 and Level 1
+- Teaching Functional Skills English Level 1 online
 
-**EPAM Systems Ltd.** (December 2005 – October 2015)   
-*Training and Education Manager, Lead English Instructor*  
+**EPAM Systems Ltd.**
+*Training and Education Manager* (February 2010 - November 2015)
 - Promoting and developing e-learning in the company
 - Creating and maintaining a resource base for ELT
 - Revising and improving curriculum process in the country headquarters and regional offices
-- Building and maintaining Business English course catalogue for employees in various IT roles
-- Improving the system of quality control in teaching and students’ progress
-- Managing a course curriculum to raise employees’ cross-cultural awareness
+- Building and maintaining Business English and cross-cultural awareness course catalogue for employees in various IT roles
+- Improving the system of quality control in teaching and monitoring students’ progress
+
+*IT Business Analyst* (July 2008 – January 2010)
+- Eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
+- Analysing functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task
+- Predicting behaviour of users who take a test in MS Office and providing them with different pathways to score a goal for a task in the simulation application
+- Finding cost-effective solutions for the customer by outlining and limiting the scope of simulation features
+- Communicating the requirements to the development and testing teams
+- Creating and updating project documentation, such as use-cases, process modelling, change requests etc by using such tools as Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Paint.NET, Adobe Photoshop, SharePoint
+  
+*Lead English Instructor* (December 2005 - June 2008)
 - Teaching regular English curriculum (A0-2, B1-2, C1 Levels)
-- Interviewing employees to assess their English level; designing placement tests
 - Developing and conducting short-term English courses and webinars (“E-Mail Correspondence”, “Teleconferencing in English”, "Meetings Across Cultures", "English for IT")
 
-**Westminster Adult Education Service** (January 2017 – November 2019)    
-*Part-time ESOL and Functional Skills Tutor*  
-- Teaching ESOL Entry 2, Entry 3 and Level 1 Speaking and Listening, Reading and Writing
-- Teaching Functional Skills English Level 1 online
-
 **Freelance Translator/Interpreter** (April 2001 – 2010)
-- Translation (Russian-English, English-Russian, Russian-Belarusian, Belarusian-Russian, French-Russian) (using Trados and a range of on-line dictionaries)
-- Editing and proofreading
+- Translation (English, Russian, Belarusian, French), editing and proofreading
 - Consecutive Interpreting (Russian-English, English-Russian)
 - Simultaneous Interpreting (Russian-English)
 
