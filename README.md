@@ -18,7 +18,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics; all requiring problem-solving, analytical skills, self-developement and innovation. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
+I have experience in IT, education, and linguistics; all requiring problem-solving, analytical skills, self-development and innovation. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -69,7 +69,7 @@ One thing I've learned is you never stop learning, which led me to retrain as a 
 
 **<a href="https://www.waes.ac.uk/">Westminster Adult Education Service</a>** (January 2017 – November 2019)       
 *ESOL and Functional Skills Tutor*  
-- Used my emotional intellegince to elicit learners' needs when teaching ESOL Entry 2, Entry 3 and Level 1
+- Used my emotional intelligence to elicit learners' needs when teaching ESOL Entry 2, Entry 3 and Level 1
 - Volunteered to teach a trial online course on Functional Skills English Level 1
 
 **<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>**
