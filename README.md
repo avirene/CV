@@ -82,7 +82,7 @@ One thing I've learned is you never stop learning, which led me to retrain as a 
 
 *IT Business Analyst* (July 2008 – January 2010)
 - Interviewed customers for eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
-- Analysed functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task and predictng user behaviour in order to offer different pathways to score a goal for a task in the simulation
+- Analysed functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task and predicting user behaviour in order to offer different pathways to score a goal for a task in the simulation
 - Found cost-effective solutions for the customer by outlining and limiting the scope of simulation features
 - Used my ability to explain well to communicate the requirements to the development and testing teams
 - My attention to detail facilitated creating and updating project documentation, such as use-cases, process modelling, change requests etc by using Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Adobe Photoshop, SharePoint
@@ -101,7 +101,7 @@ One thing I've learned is you never stop learning, which led me to retrain as a 
  
 - Fueled my desire for innovation by learning Ruby on Rails, Rspec, Capybara, Sinatra, Javascript, Jasmine, Jquery, Ajax, React, Heroku, DOM, HTTP, CSS, Postgresql, SQL, MVC, Domain Modelling, Git, Object Oriented Programming, Test Driven Development, Pair Programming, Agile, Scrum, XP Values and more
 - Applied my analytical skills when deciding on features for applications, technical solutions and application structure
-- My well-developed time-management, communication and teamwork skills helped establish effective work processes, split tasks and meet deadlines.
+- My well-developed time-management, communication and teamwork skills helped establish effective work processes, split tasks and meet deadlines
 
 #### Minsk State Linguistic University (September 1996 to July 2001)
 
