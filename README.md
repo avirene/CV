@@ -109,7 +109,7 @@ BA in Linguistics (equivalent of 2:1)
 
 #### Cambridge DELTA
 
-Diploma in English Language Teaching to Adults (2014-2015) (Merit) (equivalent of Level 7)
+Diploma in English Language Teaching to Adults (2014-2015) (Merit) (Level 7)
 
 
 ## Hobbies
