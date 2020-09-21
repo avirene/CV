@@ -18,7 +18,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics all requiring problem-solving, analytical skills, self-velopemnt and innovation. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
+I have experience in IT, education, and linguistics; all requiring problem-solving, analytical skills, self-developemnt and innovation. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -63,7 +63,7 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010. I ran a project for opening the first online language learning school in the country in 2012.
 
-One thing I've learned is you never stop learning, which lead me to retrain as a Business Analyst and then a Software Developer.
+One thing I've learned is you never stop learning, which led me to retrain as a Business Analyst and then a Software Developer.
 
 ## Work Experience
 
@@ -82,13 +82,13 @@ One thing I've learned is you never stop learning, which lead me to retrain as a
 
 *IT Business Analyst* (July 2008 – January 2010)
 - Interviewed customers for eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
-- Analysed functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task and predictng user behaviour in order to provide them with different pathways to score a goal for a task in the simulation application
+- Analysed functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task and predictng user behaviour in order to offer different pathways to score a goal for a task in the simulation
 - Found cost-effective solutions for the customer by outlining and limiting the scope of simulation features
 - Used my ability to explain well to communicate the requirements to the development and testing teams
 - My attention to detail facilitated creating and updating project documentation, such as use-cases, process modelling, change requests etc by using Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Adobe Photoshop, SharePoint
   
 *Lead English Instructor* (December 2005 - June 2008)
-- Teaching regular English curriculum (A0-2, B1-2, C1 Levels)
+- Taught regular English curriculum (A0-2, B1-2, C1 Levels)
 - Combined problem-solving and desire for innovation to elicit the need for and to design and conduct short-term English courses and webinars (“E-Mail Correspondence”, “Teleconferencing in English”, "Meetings Across Cultures", "English for IT")
 
 **Freelance Translator/Interpreter** (April 2001 – 2010)
@@ -99,7 +99,7 @@ One thing I've learned is you never stop learning, which lead me to retrain as a
 
 #### Makers Academy (8 June 2020 to 28 August 2020)
  
-- Fueled my desire for innovation by learning Ruby on Rails, Rspec, Capybara, Sinatra, Javascript, Jasmine, Jquery, Ajax, React, Heroku, DOM, HTTP, CSS, Postgresql, SQL, MVC, Domain Modelling, Git, Object Oriented Programming, Test Driven Development, Pair Programming, Agile, Scrum, XP Values
+- Fueled my desire for innovation by learning Ruby on Rails, Rspec, Capybara, Sinatra, Javascript, Jasmine, Jquery, Ajax, React, Heroku, DOM, HTTP, CSS, Postgresql, SQL, MVC, Domain Modelling, Git, Object Oriented Programming, Test Driven Development, Pair Programming, Agile, Scrum, XP Values and more
 - Applied my analytical skills when deciding on features for applications, technical solutions and application structure
 - My well-developed time-management, communication and teamwork skills helped establish effective work processes, split tasks and meet deadlines.
 
