@@ -18,7 +18,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to the software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
+I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -46,7 +46,7 @@ I am good at asking questions, getting to the bottom of matters and then explain
 
 As a Software Developer, I am keen on writing applications that tackle practical issues users face. At the moment I am working on an application that helps language learners memorise vocabulary via automated elicitation of new words and collocations.
 
-As an IT Business Analyst, I unified the project terminology used by the team, created a knowledge sharing base and use case templated which facilitated the communication within the team and sped up the process of use case writing.
+As an IT Business Analyst, I unified the project terminology used by the team, created a knowledge sharing base and use case templates which facilitated the communication within the team and sped up the process of use case writing.
 
 As a Training and Education Manager, I promoted and developed e-learning in the company, created a bespoke Business English and cross-cultural awareness curriculum and improved the system of quality assurance in teaching and monitoring students’ progress, which led to a more flexibile, personalised and efficient system of learners' journeys.
 
@@ -55,7 +55,7 @@ As a Training and Education Manager, I promoted and developed e-learning in the 
 
 As a Software Developer, I ask questions that help me see a bigger picture of an application as early as possible in order to structure classes and methods clearly.
 
-As a Business Analyst, I elicited customers' requirements by interviewing, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. We stitched between Waterfall and Agile methodologies depending on the project needs.
+As a Business Analyst, I elicited customers' requirements by interviewing, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. We switched between Waterfall and Agile methodologies depending on the project needs.
 
 As a linguist and a teacher, I have deep understanding of language structure in terms of morphology, syntax and semantics. I have always been good at writing rules of grammar and collocation in a simple yet structured way using presentations, infographics, charts and memory cards. 
 
