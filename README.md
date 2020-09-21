@@ -18,7 +18,7 @@
 
 ## About Me
 
-I have experience in IT, education, and linguistics. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
+I have experience in IT, education, and linguistics all requiring problem-solving, analytical skills, self-velopemnt and innovation. Since school, I have always had a strong interest in tech, in particular natural language processing, educational software, speech recognition, and more. But my initial career choice was influenced by the conventionally planted idea of a "more flexible" job in education which would allow a woman to combine a job and a family. However, I have always kept an eye on tech. I worked for a big IT company (<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>) for 10 years as a Training and Education Manager and an IT Business Analyst trying to get as close to software development as I possibly could. Finally, I decided to treat my interest in coding with proper attention and enrolled at the Makers Academy. I have just done their software development bootcamp and am really looking forward to my next position as a software engineer. In fact, since I completed the course, I have been experiencing constant urges to develop software for almost everything I daily deal with, which I satisfy by working on several projects.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
@@ -42,13 +42,13 @@ I have experience in IT, education, and linguistics. Since school, I have always
 
 I am good at asking questions, getting to the bottom of matters and then explaining them in a simple way. I always pay attention to detail and organise things and establish processes well. I constantly look for innovation and development. Due to my solid time-management skills, I am able to achieve my aims quickly and efficiently.
 
-#### Problem Solving
+#### Problem-Solving
 
 As a Software Developer, I am keen on writing applications that tackle practical issues users face. At the moment I am working on an application that helps language learners memorise vocabulary via automated elicitation of new words and collocations.
 
 As an IT Business Analyst, I unified the project terminology used by the team, created a knowledge sharing base and use case templates which facilitated the communication within the team and sped up the process of use case writing.
 
-As a Training and Education Manager, I promoted and developed e-learning in the company, created a bespoke Business English and cross-cultural awareness curriculum and improved the system of quality assurance in teaching and monitoring students’ progress, which led to a more flexibile, personalised and efficient system of learners' journeys.
+As a Training and Education Manager, I promoted and developed e-learning in the company, created a bespoke curriculum and improved the system of quality assurance, which led to a more flexibile, personalised and efficient system of learners' journeys.
 
 
 #### Strong Analytical Skills
@@ -61,54 +61,47 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 ####  Desire for Innovation
 
-Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010.
+Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010. I ran a project for opening the first online language learning school in the country in 2012.
 
-I learned Business Analysis and I learned Software Development.
+One thing I've learned is you never stop learning, which lead me to retrain as a Business Analyst and then a Software Developer.
 
 ## Work Experience
 
 **<a href="https://www.waes.ac.uk/">Westminster Adult Education Service</a>** (January 2017 – November 2019)       
 *ESOL and Functional Skills Tutor*  
-- Teaching ESOL Entry 2, Entry 3 and Level 1
-- Teaching Functional Skills English Level 1 online
+- Used my emotional intellegince to elicit learners' needs when teaching ESOL Entry 2, Entry 3 and Level 1
+- Volunteered to teach a trial online course on Functional Skills English Level 1
 
 **<a href="https://www.epam.com/" target="_blank">EPAM Systems Ltd.</a>**
 
 *Training and Education Manager* (February 2010 - November 2015)
-- Promoting and developing e-learning in the company
-- Creating and maintaining a resource base for ELT
-- Revising and improving curriculum process in the country headquarters and regional offices
-- Building and maintaining Business English and cross-cultural awareness course catalogue for employees in various IT roles
-- Improving the system of quality control in teaching and monitoring students’ progress
+- Gained and applied leadership skills when promoting and developing e-learning in the company
+- Desire for innovation led me to revising and improving curriculum process in the country headquarters and regional offices
+- My ability to think deep helped me build and maintain a tailor-made Business English and cross-cultural awareness course catalogue and resource base
+- Used a problem-solving approach to improve the system of quality control in teaching and monitoring students’ progress
 
 *IT Business Analyst* (July 2008 – January 2010)
-- Eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
-- Analysing functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task
-- Predicting behaviour of users who take a test in MS Office and providing them with different pathways to score a goal for a task in the simulation application
-- Finding cost-effective solutions for the customer by outlining and limiting the scope of simulation features
-- Communicating the requirements to the development and testing teams
-- Creating and updating project documentation, such as use-cases, process modelling, change requests etc by using such tools as Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Paint.NET, Adobe Photoshop, SharePoint
+- Interviewed customers for eliciting, reviewing, and managing requirements (both functional and non-functional) to develop an automated test evaluation system for a UK company Activ Training (now acquired by BCS, The Chartered Institute for IT)
+- Analysed functionality of Microsoft Office applications (Word, Excel, Power Point, Access, Visio) from the point of view of different ways to perform a task and predictng user behaviour in order to provide them with different pathways to score a goal for a task in the simulation application
+- Found cost-effective solutions for the customer by outlining and limiting the scope of simulation features
+- Used my ability to explain well to communicate the requirements to the development and testing teams
+- My attention to detail facilitated creating and updating project documentation, such as use-cases, process modelling, change requests etc by using Power Point, Visio, Sparx EnterpriseArchitect, Jira, Confluence, SVN, Adobe Photoshop, SharePoint
   
 *Lead English Instructor* (December 2005 - June 2008)
 - Teaching regular English curriculum (A0-2, B1-2, C1 Levels)
-- Developing and conducting short-term English courses and webinars (“E-Mail Correspondence”, “Teleconferencing in English”, "Meetings Across Cultures", "English for IT")
+- Combined problem-solving and desire for innovation to elicit the need for and to design and conduct short-term English courses and webinars (“E-Mail Correspondence”, “Teleconferencing in English”, "Meetings Across Cultures", "English for IT")
 
 **Freelance Translator/Interpreter** (April 2001 – 2010)
 - Translation (English, Russian, Belarusian, French), editing and proofreading
-- Consecutive and Simultaneous Interpreting (Russian-English, English-Russian)
+- Consecutive and simultaneous Interpreting (Russian-English, English-Russian)
 
 ## Education
 
 #### Makers Academy (8 June 2020 to 28 August 2020)
-
-- Ruby, Rspec, Capybara, Sinatra, Rails
-- Javascript, Jasmine, Jquery, Ajax
-- React, Heroku
-- DOM, HTTP, CSS
-- Postgresql, SQL
-- MVC, Domain Modelling, Git
-- Object Oriented Programming, Test Driven Development, Pair Programming
-- Agile, Scrum, XP Values
+ 
+- Fueled my desire for innovation by learning Ruby on Rails, Rspec, Capybara, Sinatra, Javascript, Jasmine, Jquery, Ajax, React, Heroku, DOM, HTTP, CSS, Postgresql, SQL, MVC, Domain Modelling, Git, Object Oriented Programming, Test Driven Development, Pair Programming, Agile, Scrum, XP Values
+- Applied my analytical skills when deciding on features for applications, technical solutions and application structure
+- My well-developed time-management, communication and teamwork skills helped establish effective work processes, split tasks and meet deadlines.
 
 #### Minsk State Linguistic University (September 1996 to July 2001)
 
