@@ -23,6 +23,7 @@ I have experience in IT, education, and linguistics; all requiring problem-solvi
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
 |--|--|--|--|--|--|
+|Chunks| An application that helps language learners memorise vocabulary via automated elicitation of new words and collocations <br> | 1 week | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> | RSpec, CircleCI | <a href="https://github.com/avirene/chunks">Chunks on Github</a>|
 |<a href="https://cryptic-brook-48460.herokuapp.com/" target="_blank">Theresa</a>| A webapp to discover and keep track of walks depending on location, driving distance and weather <br> | 2 weeks, team of 3 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a href="https://trello.com/b/1bBOkh6L/theresa" target="_blank">Theresa on Trello Board</a> | RSpec, CircleCI | <a href="https://github.com/theresadreamteam/theresa">Theresa on Github</a> <br> <a href="https://www.youtube.com/watch?v=xj6NAPVJlF8">Theresa's Demo</a>|
 |Bank| In this Ruby project I practiced doing a tech test, my OO design and TDD skills <br> | 2 days | Ruby | RSpec | <a href="https://github.com/avirene/bank">Bank on Github</a>|
 |Acebook JIMJI| A social media platform <br> | 2 weeks, team of 5 | Ruby on Rails, Javascript/React, Bootstrap, HTML, CSS, PostgreSQL <br> <a href="https://trello.com/b/uXk2aBQ2/acebook-project-board" target="_blank">Acebook JIMJI on Trello Board</a>| RSpec, Capybara | <a href="https://github.com/jamesAforster/acebook-JIMJI" target="_blank">Acebook JIMJI on Github</a>|
@@ -53,7 +54,7 @@ As a Training and Education Manager, I promoted and developed e-learning in the 
 
 #### Strong Analytical Skills
 
-As a Software Developer, I ask questions that help me see a bigger picture of an application as early as possible in order to structure classes and methods clearly.
+As a Software Developer, I ask questions that help me see a bigger picture of an application as early as possible in order to make better informed decisions on features and tech stack and structure classes and methods clearly.
 
 As a Business Analyst, I elicited customers' requirements by interviewing, clarifying and paraphrasing. I analysed this data and created structured specifications, models and diagrams. We switched between Waterfall and Agile methodologies depending on the project needs.
 
@@ -61,7 +62,7 @@ As a linguist and a teacher, I have deep understanding of language structure in 
 
 ####  Desire for Innovation
 
-Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010. I ran a project for opening the first online language learning school in the country in 2012.
+Throughout my whole career I have been learning and developing. I did several teacher training courses, I designed tailor-made courses for the company. I was also the first English teacher in the company to teach English courses as webinars back in 2010. In order to intellectually challenge myself during my maternity leave, I ran a project for opening the first online language learning school in the country in 2012.
 
 One thing I've learned is you never stop learning, which led me to retrain as a Business Analyst and then a Software Developer.
 
@@ -114,5 +115,5 @@ Diploma in English Language Teaching to Adults (2014-2015) (Merit) (Level 7)
 
 ## Hobbies
 
-I am fascinated by human body and mind.
+I am fascinated by human body and mind. <br>
 I enjoy running, dancing, and cooking.
